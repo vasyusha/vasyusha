@@ -12,7 +12,7 @@
 <h3 aling="left">I'm working on the first task now :joy_cat:</h3>
 <hr></hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyusha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vasyusha/vasyusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
