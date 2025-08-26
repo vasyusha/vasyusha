@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a target="_blank">vasyusha</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 aling="center">I'm from Russia 🇷🇺></h1>
+<h1 align="center">I'm from Russia></h1>
 <h3 align="center">I work in the field of information modeling (BIM)!</h3>
 <!--
 **vasyusha/vasyusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
